@@ -6,6 +6,8 @@ H1 {text-align: center;}
 
 #coffeebody {background-color: rgb(176, 139, 150);}
 
+#chaibody {background-color: rgb(225, 225, 150);}
+
 #pizzabox {background-color: rgb(186, 165, 141);}
 #pizzabox2 {background-color: rgb(200, 180, 141);}
 #pizzabox3 {background-color: rgb(204, 187, 143);}
@@ -13,7 +15,9 @@ H1 {text-align: center;}
 #coffeebox {background-color: rgb(204, 140, 143);}
 #coffeebox2 {background-color: rgb(220, 140, 143);}
 
+#chaibox {background-color: rgb(220, 190, 143);}
+#chaibox2 {background-color: rgb(220, 160, 160);}
+
 .normaltext {background-color: white;}
-.centertext {text-align: center;
-font-family: 'Brush Script MT',cursive;}
+.centertext {text-align: center; font-family: 'Brush Script MT',cursive;}
 .textcenter {text-align: center;}
